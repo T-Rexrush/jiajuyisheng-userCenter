@@ -1,0 +1,35 @@
+*{ margin: 0; padding: 0;}
+.top{text-align: center;line-height: 40px;padding-top: 10px;background-color: #18BEBE;}
+.city {height:50px;text-align:center;float:left;}
+.city img{margin: 15px 10px 15px 183px ;float: left;}
+.city-now {line-height: 50px;text-align:center;font-size:16px;float:left;letter-spacing:3px;color:black;}
+.city-select{text-align:center;line-height:50px;color:#333;cursor:pointer;overflow:hidden;display:inline-block;padding-right:180px;}
+.nav-a,.about{text-decoration: none;display: block;color: black;}
+.nav{list-style: none;overflow: hidden; text-align: center;background:whitesmoke;height: 50px;}
+.nav,.top,.bottom{width:1366px;}
+.nav-li{float:left;line-height: 50px;width:100px;text-align:center;}
+.img-adm{float:left;line-height: 50px;text-align:center;padding-top: 3px;padding-left: 200px;}
+.img-adm{margin-left: -15px;}
+
+
+.bottom{
+    height: 248px;
+    background-color: #515151;
+    margin-top: 50px;
+}
+.bottom-content{margin-left: auto;margin-right: auto;width: 1000px;color: #CBCBCB;font-size: 14px;}
+.Logo{float: left;margin-bottom: 20px;margin-top: 20px;}
+.Logo .logan{margin:10px 14px 10px;color: white;font-size: 15px;}
+.Logo p{margin-left: 14px}
+.footerLogo{padding:10px 15px;}
+hr{margin-top: 20px;margin-bottom: 10px;}
+.copyright{float: right; margin-right: 10px;}
+.about{color: #CBCBCB;width:80px;text-align: center;margin: 15px 0px;}
+.about-us{float: left;margin: 30px 30px 30px 60px;}
+.statement{float: left;margin: 30px;}
+.imgs{float: left;margin: 30px -25px auto 100px;}
+.market{float: left;margin: 30px;}
+.weixin{margin: 13px 0px 0px;max-width:100%;}
+.tianmao{margin: 7px 0px 0px;max-width:100%;}
+.shop{margin: 8px 0px 0px;max-width:100%;}
+.ltd{ margin-left:10px;padding-bottom: 10px;}
