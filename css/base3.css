@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0}
+.top{position:relative;width: 700px;height: 55px;border-bottom: 2px dotted #DCDCDC ;margin-top: 30px;margin-left: auto;margin-right: auto}
+.change{text-decoration: none;outline: none;display: inline-block;width: 100px;line-height: 32px;margin-left:30px;border-left: 4px solid #18BEBE;box-sizing: border-box;text-align: center;color:black}
+.middle,.bottom{ width: 450px;height: 70px;margin-top: 22px;border: 1px solid #DCDCDC;border-left: 2px solid #DCDCDC;border-right: 2px solid #DCDCDC;background-color: white;}
+.phone{float: left;margin:12.5px 15px 12.5px 15px}
+.weixin{float: left;margin:20px 20px 20px 20px}
+.phone-bound{float: left;margin-top: 15px;}
+.weixin-bound{float: left;margin-top: 15px;}
+button{width: 85px;height: 36px;background-color: #FEA700;border: none;outline: none;float: right;margin:18px 50px;}
+.middle{position: absolute;left:50%;margin-left: -320px;}
+.bottom{position: absolute;left:50%;top:180px;margin-left: -320px;}

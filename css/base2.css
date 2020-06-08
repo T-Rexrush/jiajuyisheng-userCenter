@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;color: #18BEBE;}
+.home{background-color: #EBEBEB;height: 150px;border: 1px solid #E8E8E8;}
+.home div,img{float: left;}
+.user{margin:19px 20px 20px 30px}
+.user-name{margin-bottom: 20px;font-size: 18px;}
+.left{margin-top: 30px;}
+.line{ height: 95px;width: 1px;border-right: 1px solid #CECECE;margin-left: 50px;margin-top: 25px;}
+.weixin{margin:57.5px 15px 20px 30px}
+.phone{margin:57.5px 15px 20px 50px}
+.middle,.right{margin-top: 60px;font-size: 12px;}

@@ -1,0 +1,52 @@
+*{ margin: 0; padding: 0;}
+.top{text-align: center;line-height: 40px;padding-top: 10px;background-color: #18BEBE;}
+.nav{width:1000px;margin-left: auto;margin-right:auto;}
+.nav-box{text-align: center;background:whitesmoke;}
+.middle-box{text-align: center;}
+.city {height:50px;text-align:center;float:left;}
+.city img{margin: 15px 10px 15px ;float: left;}
+.city-now {line-height: 50px;text-align:center;font-size:16px;float:left;letter-spacing:3px;color:black;}
+.city-select{text-align:center;line-height:50px;color:#333;cursor:pointer;overflow:hidden;display:inline-block;padding-right:180px;}
+.nav-a,.about{text-decoration: none;display: block;color: black;}
+.nav-li .adm{color:#F9BF50;}
+.nav-li .adm{width:70px;text-align: right;float: right;}
+.nav .user{width:70px}
+.nav{list-style: none;overflow: hidden; text-align: center;background:whitesmoke;height: 50px;}
+.nav-box,.top,.bottom,.middle-box{min-width:1300px;}
+.nav-li{float:left;line-height: 50px;width:100px;text-align:center;}
+.img-adm{float: left;line-height: 50px;text-align:center;padding-top: 3px;padding-left: 190px;}
+.middle{width:1000px;height: 740px;margin-top: 20px;margin-left: auto;margin-right:auto;}
+.middle-left{width: 200px;height: 730px;border: 1px solid #EAEAEA;float: left;background-color: #F0F0F0;}
+iframe{float: left;width: 788px;height: 732px;margin-left: 10px;border: 1px solid #EAEAEA;box-sizing: border-box;background-color: #F0F0F0;}
+.home{text-decoration: none;outline: none;display: inline-block;width: 200px;line-height: 60px;border: 1px solid #E1E1E1;border-left: 4px solid #18BEBE;box-sizing: border-box;text-align: center;color: #18BEBE;}
+.bound a:hover{color:#F9BF50}
+.home:hover{color:#F9BF50}
+ul{list-style:none;}
+.menu li{float: left;margin-right: 20px;}
+.menu li a{font-size: 14px;color: #505050;text-decoration: none;outline: none;margin-left: 56px;margin-top: 10px; display: inline-block;}
+.menu li img{margin-left: 40px;margin-right: 5px;}
+.detect,.deal,.decorate,.collect,.info,.points{ font-size: 16px;font-weight: bold;color: #505050;margin-top: 20px;}
+.menu .detect{margin-top: 5px;}
+
+
+.bottom{
+    height: 248px;
+    background-color: #515151;
+    margin-top: 30px;
+}
+.bottom-content{margin-left: auto;margin-right: auto;width: 1000px;color: #CBCBCB;font-size: 14px;}
+.Logo{float: left;margin-bottom: 20px;margin-top: 20px;}
+.Logo .logan{margin:10px 14px 10px;color: white;font-size: 15px;}
+.Logo p{margin-left: 14px}
+.footerLogo{padding:10px 15px;}
+.line{margin-top: 20px;margin-bottom: 10px;border-bottom: 1px solid #666;width:1000px;float: left;}
+.copyright{float: right; margin-right: 10px;}
+.about{color: #CBCBCB;width:80px;text-align: center;margin: 15px 0px;}
+.about-us{float: left;margin: 30px 30px 30px 60px;}
+.statement{float: left;margin: 30px;}
+.imgs{float: left;margin: 30px -25px auto 100px;}
+.market{float: left;margin: 30px;}
+.weixin{margin: 13px 0px 0px;max-width:100%;}
+.tianmao{margin: 7px 0px 0px;max-width:100%;}
+.shop{margin: 8px 0px 0px;max-width:100%;}
+.ltd{float: left; margin-left:10px;padding-bottom: 10px;}

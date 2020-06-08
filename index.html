@@ -2,31 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css/base.css">
-    <script language="javascript" type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="js/index.js"></script>
+    <link rel="stylesheet" href="css/base1.css">
 </head>
 <body>
     <div class="top">
         <img src="images/logo.png">
     </div>
-    <ul class="nav">
-        <div class="city"> 
-            <img src="images/location.png">
-            <div class="city-now">深圳</div>
-            <div class="city-select">&lt切换&gt</div>
+    <div class="nav-box">
+        <ul class="nav">
+            <div class="city"> 
+                <img src="images/location.png">
+                <div class="city-now">深圳</div>
+                <div class="city-select">&lt切换&gt</div>
+            </div>
+            <li class="nav-li"><a class="nav-a" href="#">首页</a></li>
+            <li class="nav-li"><a class="nav-a" href="#">资讯</a></li>
+            <li class="nav-li"><a class="nav-a" href="#">测评</a></li>
+            <li class="nav-li"><a class="nav-a" href="#">商城</a></li>
+            <div class="img-adm"><img src="images/adm.png"></div>
+            <li class="nav-li user"><a class="nav-a adm" href="#">个人中心</a></li>
+        </ul>
+    </div>
+    <div class="middle-box">
+        <div class="middle">
+            <div class="middle-left">
+                <a class="home" href="home.html" target="frame">用户中心首页</a>
+                <ul class="menu">
+                    <li class="detect"><img src="images/open.png">我的检测</li>
+                    <li><a href="#">上门检测</a></li>
+                    <li><a href="#">DIY检测</a></li>
+    
+                    <li class="deal"><img src="images/open.png">我的治理</li>
+                    <li><a href="#">上门治理</a></li>
+
+                    <li class="decorate"><img src="images/open.png">我的装修</li>
+                    <li><a href="#">装修方案</a></li>
+
+                    <li class="collect"><img src="images/open.png">我的收藏</li>
+                    <li><a href="#">装修材料</a></li>
+                    <li><a href="#">净化产品</a></li>
+                    <li><a href="#">资讯</a></li>
+                    <li><a href="#">测评</a></li>
+
+                    <li class="info"><img src="images/open.png">个人资料</li>
+                    <li><a href="#">个人资料</a></li>
+                    <li><a href="#">修改密码</a></li>
+                    <li class="bound"><a href="bound.html" target="frame">绑定手机\微信</a></li>
+
+                    <li class="points"><img src="images/open.png">积分管理</li>
+                    <li><a href="#">积分兑换</a></li>
+                    <li><a href="#">积分等级</a></li>
+                    <li><a href="#">积分任务</a></li>
+                </ul>
+            </div>
+            <iframe src="home.html" frameborder="0" name="frame"></iframe>
         </div>
-        <li class="nav-li"><a class="nav-a" href="#">首页</a></li>
-        <li class="nav-li"><a class="nav-a" href="#">资讯</a></li>
-        <li class="nav-li"><a class="nav-a" href="#">测评</a></li>
-        <li class="nav-li"><a class="nav-a" href="#">商城</a></li>
-        <div class="img-adm"><img src="images/adm.png"></div>
-        <li class="nav-li"><a class="nav-a" href="#">个人中心</a></li>
-    </ul>
-    <div class="content">
-        
     </div>
     <div class="bottom">
         <div class="bottom-content">
@@ -56,8 +87,9 @@
                 <a class="about" href="#">  天猫旗舰店</a>
                 <a class="about" href="#">  有赞商城</a>
             </div>
-            <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color=#ffffff,direction=145,strength=15)" width="100%" color=#ffffff SIZE=1>
-            <p class="ltd">深圳建筑科学研究院股份有限公司 &nbsp&nbsp 家居医生网<span class="copyright">粤ICP备08011321号 ©Copyright All Rights Reserved</span></p>
+            <div class="line"></div>
+            <span class="ltd">深圳建筑科学研究院股份有限公司 &nbsp&nbsp 家居医生网</span>
+            <span class="copyright">粤ICP备08011321号 ©Copyright All Rights Reserved</span>
         </div>
     </div>
 </body>
