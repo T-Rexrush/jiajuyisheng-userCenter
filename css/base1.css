@@ -14,13 +14,13 @@
 .nav{list-style: none;overflow: hidden; text-align: center;background:whitesmoke;height: 50px;}
 .nav-box,.top,.bottom,.middle-box{min-width:1300px;}
 .nav-li{float:left;line-height: 50px;width:100px;text-align:center;}
+.nav-a:hover{color:#F9BF50;}
 .img-adm{float: left;line-height: 50px;text-align:center;padding-top: 3px;padding-left: 190px;}
 .middle{width:1000px;height: 740px;margin-top: 20px;margin-left: auto;margin-right:auto;}
 .middle-left{width: 200px;height: 730px;border: 1px solid #EAEAEA;float: left;background-color: #F0F0F0;}
 iframe{float: left;width: 788px;height: 732px;margin-left: 10px;border: 1px solid #EAEAEA;box-sizing: border-box;background-color: #F0F0F0;}
 .home{text-decoration: none;outline: none;display: inline-block;width: 200px;line-height: 60px;border: 1px solid #E1E1E1;border-left: 4px solid #18BEBE;box-sizing: border-box;text-align: center;color: #18BEBE;}
-.bound a:hover{color:#F9BF50}
-.home:hover{color:#F9BF50}
+.menu li a:hover{color:#F9BF50}
 ul{list-style:none;}
 .menu li{float: left;margin-right: 20px;}
 .menu li a{font-size: 14px;color: #505050;text-decoration: none;outline: none;margin-left: 56px;margin-top: 10px; display: inline-block;}
